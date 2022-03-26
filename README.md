@@ -1,1 +1,1 @@
-# Git-Hub
+# GitHub
